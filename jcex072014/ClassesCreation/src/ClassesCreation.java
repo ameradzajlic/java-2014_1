@@ -18,8 +18,6 @@ public class ClassesCreation {
         tc_person.category = 1;
         tc_person.name_and_surname = "Yefreytor Vadim Vasilyev";
         tc_person.vehicle_id = 5; 
-        
-        
     }
     
 }
