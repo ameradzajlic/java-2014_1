@@ -3,7 +3,6 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException; 
-import java.util.function.Function;
 public class MergeFiles {
     public static void main(String[] args) throws FileNotFoundException, IOException { 
         FileInputStream[] streams = {
